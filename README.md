@@ -1,1 +1,1 @@
-# Personalized-Recommendations-Based-on-MBTI-Classification-Project
+This is the final project of IE7500 - App Natural Language Processing
